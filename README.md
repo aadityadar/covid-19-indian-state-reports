@@ -14,7 +14,7 @@ https://karunadu.karnataka.gov.in/hfw/kannada/Pages/covid-19.aspx
 https://stopcoronatn.in/dailybulletin.html
 
 - Telangana (TG)
-http://chfw.telangana.gov.in/homeCorona.do
+https://chfw.telangana.gov.in/media.html
 
 - West Bengal (WB)
 https://www.wbhealth.gov.in/pages/corona/bulletin
