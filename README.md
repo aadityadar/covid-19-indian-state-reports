@@ -1,5 +1,5 @@
 # covid-19-indian-state-reports
-COVID-19 related bulletins issued by state governments in India
+Archive of COVID-19 related bulletins issued by state governments in India. In addition to reports about confirmed cases, some of these reports provide details about patients' travel history, data on suspected cases and other useful information.
 
 - Delhi (DL)
 http://health.delhigovt.nic.in/wps/wcm/connect/doit_health/Health/Home/Covid19/Health+Bulletin
