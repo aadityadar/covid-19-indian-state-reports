@@ -1,0 +1,21 @@
+﻿BULLETIN
+DATE: 31/01/2020
+In the context of Novel corona viral (2019-ncov) epidemic, surveillance and control measures have been strengthened in Kerala. Till date, 1471 persons from Corona affected countries are placed under surveillance, out of which 1421 are under home quarantine and 50 people are admitted in designated isolation facilities. Samples of symptomatic persons have been sent to National institute of virology, Pune. The concerned hospital authorities have reported that all admitted cases are stable. At present, only one positive case has been reported. The second sample result of the student is awaited. A 24x7 call center has been set up in the Directorate of Health services (Contact no. 9072315151, email: controlroomdhskerala@gmail.com)
+Since there is an existing alert in the background of present nCorona virus outbreak in the State, the general public is advised to follow the guidelines pertaining to personal and environmental hygiene. The Health department emphasizes the importance of hand washing and use of handkerchief while sneezing/coughing to prevent nCorona virus infection.
+District	Cumulative number of Passengers from china under observation as on today	Cumulative number of asymptomatic Passengers under home isolation as on today	Cumulative no of symptomatic passengers hospitalised as on today	No of symptomatic passengers hospitalised today
+Thiruvananthapuram	111	105	6	5
+Kollam	128	122	6	4
+Pathanamthitta	43	43	0	0
+Idukki	21	21	0	0
+Kottayam	52	52	0	0
+Alappuzha	93	87	6	5
+Ernakulam	204	195	9	5
+Thrissur	124	110	14	11
+Palakkad	93	92	1	1
+Malappuram	210	205	5	3
+Kozhikode	214	211	3	2
+Wayanad	22	22	0	0
+Kannur	96	96	0	0
+Kasaragod	60	60	0	0
+Total	1471	1421	50	36
+State Nodal Officer

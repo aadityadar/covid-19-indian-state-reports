@@ -1,0 +1,17 @@
+﻿Health Medical and Family Welfare Department,
+Media Bulletin on Covid-19 Date 17.03.2020
+WHO has declared the recent Novel Corona Virus (COVID-19) epidemic affecting 151 countries as International Public Health Emergency of International concern (PHEIC). In this context, Government of Telangana has strengthened the surveillance and control measures against the disease, as per the national guidelines.
+Situation in Telangana:
+SI No	Particulars	Today	Cumulative
+1	Number of passengers screened at Airport by Health desk	2057	65238
+2	Number of self-reported passengers approached	68	918
+3	Number of Persons referred by Gol/MHA/Other State IDSP/APHO	634	1046
+Total No. of Suspects (2+3)		702	1964
+	a) Number of persons Asymptomatic & Home Quarantine	662	1530
+	b) Number of persons Symptomatic/ Hospital Isolation	40	435
+4	i)Sample collected	40	432
+	ii) Tested Negative	21	397
+	iii)Tested Positive	1	5
+	iv) Results awaited	18	18
+Sd/-
+DIRECTOR PUBLIC HEALTH &FAMILY WELFARE
