@@ -1,5 +1,7 @@
 # covid-19-indian-state-reports
-Archive of COVID-19 related bulletins issued by state governments in India. In addition to reports about confirmed cases, some of these reports provide details about patients' travel history, data on suspected cases and other useful information. This repository hosts both the pdf and txt files (the txt files are a snapshot from March 21; please refer to the pdf folder for the complete bulletins)  
+Archive of COVID-19 related bulletins issued by state governments in India. In addition to reports about confirmed cases, some of these reports provide details about patients' travel history, data on suspected cases and other useful information. This repository hosts both the pdf and txt files (the txt files are a snapshot from March 21; please refer to the pdf folder for the complete bulletins). 
+
+List of states covered in the archive:
 
 - Delhi (DL)
 http://health.delhigovt.nic.in/wps/wcm/connect/doit_health/Health/Home/Covid19/Health+Bulletin
