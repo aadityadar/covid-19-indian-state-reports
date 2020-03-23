@@ -4,6 +4,9 @@ Archive of COVID-19 related bulletins issued by state governments in India. In a
 - Delhi (DL)
 http://health.delhigovt.nic.in/wps/wcm/connect/doit_health/Health/Home/Covid19/Health+Bulletin
 
+- Haryana (HR)
+http://www.nhmharyana.gov.in/page.aspx?id=208
+
 - Kerala (KL)
 http://dhs.kerala.gov.in/%e0%b4%a1%e0%b5%86%e0%b4%af%e0%b4%bf%e0%b4%b2%e0%b4%bf-%e0%b4%ac%e0%b5%81%e0%b4%b3%e0%b5%8d%e0%b4%b3%e0%b4%b1%e0%b5%8d%e0%b4%b1%e0%b4%bf%e0%b4%a8%e0%b5%8d%e2%80%8d/
 
