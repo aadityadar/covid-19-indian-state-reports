@@ -7,6 +7,9 @@ http://health.delhigovt.nic.in/wps/wcm/connect/doit_health/Health/Home/Covid19/H
 - Haryana (HR)
 http://www.nhmharyana.gov.in/page.aspx?id=208
 
+- Madhya Pradesh (MP)
+http://mphealthresponse.nhmmp.gov.in/covid/media-reponse/ (Note: file format is jpeg and in hindi)
+
 - Maharashtra (MH)
 https://arogya.maharashtra.gov.in/1175/Novel--Corona-Virus (Note: some of the pdfs are in marathi)
 
