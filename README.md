@@ -20,7 +20,7 @@ http://mphealthresponse.nhmmp.gov.in/covid/media-reponse/ (Note: file format is 
 https://arogya.maharashtra.gov.in/1175/Novel--Corona-Virus (Note: some of the pdfs are in marathi)
 
 - Odisha (OR)
-https://covid19.odisha.gov.in/
+https://health.odisha.gov.in/
 
 - Tamil Nadu (TN)
 https://stopcoronatn.in/dailybulletin.html
