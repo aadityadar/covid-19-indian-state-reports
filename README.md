@@ -24,6 +24,9 @@ https://arogya.maharashtra.gov.in/1175/Novel--Corona-Virus (Note: some of the pd
 - Odisha (OR)
 https://health.odisha.gov.in/
 
+- Punjab (PB)
+http://www.diprpunjab.gov.in/ or http://punjab.gov.in/ (Note: use site specific search for "Media Bulletin" to find these pdfs)
+
 - Tamil Nadu (TN)
 https://stopcoronatn.in/dailybulletin.html
 
