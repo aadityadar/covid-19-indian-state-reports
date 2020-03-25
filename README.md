@@ -6,6 +6,9 @@ List of states covered in the archive:
 - Delhi (DL)
 http://health.delhigovt.nic.in/wps/wcm/connect/doit_health/Health/Home/Covid19/Health+Bulletin
 
+- Goa (GA)
+http://www.dhsgoa.gov.in/Information%20on%20CORONA%20VIRUS.htm
+
 - Haryana (HR)
 http://www.nhmharyana.gov.in/page.aspx?id=208
 
