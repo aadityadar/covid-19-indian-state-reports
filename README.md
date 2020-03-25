@@ -27,6 +27,9 @@ https://health.odisha.gov.in/
 - Punjab (PB)
 http://www.diprpunjab.gov.in/ or http://punjab.gov.in/ (Note: use site specific search for "Media Bulletin" to find these pdfs)
 
+- Rajasthan (RJ)
+http://www.rajswasthya.nic.in/
+
 - Tamil Nadu (TN)
 https://stopcoronatn.in/dailybulletin.html
 
