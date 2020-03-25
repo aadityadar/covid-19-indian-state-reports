@@ -3,6 +3,9 @@ Archive of COVID-19 related bulletins issued by state governments in India. In a
 
 List of states covered in the archive:
 
+- Chhattisgarh (CT)
+http://www.cghealth.nic.in/cghealth17/
+
 - Delhi (DL)
 http://health.delhigovt.nic.in/wps/wcm/connect/doit_health/Health/Home/Covid19/Health+Bulletin
 
