@@ -46,3 +46,5 @@ https://chfw.telangana.gov.in/media.html
 https://www.wbhealth.gov.in/pages/corona/bulletin
 
 - Hat tip: https://telegra.ph/Covid-19-Sources-03-19
+
+PS: Looking for ICMR testing data or MOFHW district wise cases? See this https://github.com/datameet/covid19/tree/master/icmr-backup and  https://github.com/datameet/covid19/tree/master/mohfw-backup/district_wise_cases For more, see https://github.com/datameet/covid19
