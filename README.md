@@ -1,4 +1,7 @@
 # covid-19-indian-state-reports
+
+***NOTE: THIS REPOSITORY IS NO LONGER ACTIVELY MAINTAINED. IT WAS LAST UPDATED ON MARCH 26. FOR RECENT BULLETINS, PLEASE SEE https://github.com/datameet/covid-19-indian-state-reports*** 
+
 Archive of COVID-19 related bulletins issued by state governments in India. In addition to reports about confirmed cases, some of these reports provide details about patients' travel history, data on suspected cases and other useful information. This repository hosts both the pdf and txt files (the txt files are a snapshot from March 21; please refer to the pdf folder for the complete bulletins). 
 
 List of states covered in the archive:
